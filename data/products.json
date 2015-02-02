@@ -1,0 +1,62 @@
+[
+  {
+    "id"          : 1,
+    "title"       : "Бананы",
+    "thumb"       : "banana.jpg"
+  },
+  {
+    "id"          : 2,
+    "title"       : "Яблоки",
+    "thumb"       : "apple.jpg"
+  },
+  {
+    "id"          : 3,
+    "title"       : "Лимоны",
+    "thumb"       : "lemon.jpg"
+  },
+  {
+    "id"          : 4,
+    "title"       : "Виноград",
+    "thumb"       : "green-grape.jpg"
+  },
+  {
+    "id"          : 5,
+    "title"       : "Мандарины",
+    "thumb"       : "tangerine.jpg"
+  },
+  {
+    "id"          : 6,
+    "title"       : "Помело",
+    "thumb"       : "pomelo.jpg"
+  },
+  {
+    "id"          : 7,
+    "title"       : "Грейпфрут",
+    "thumb"       : "grapefruit.jpg"
+  },
+  {
+    "id"          : 8,
+    "title"       : "Томаты",
+    "thumb"       : "tomato.jpg"
+  },
+  {
+    "id"          : 9,
+    "title"       : "Огурцы",
+    "thumb"       : "cucumber.jpg"
+  },
+  {
+    "id"          : 10,
+    "title"       : "Картофель",
+    "thumb"       : "potato.jpg"
+  },
+  {
+    "id"          : 11,
+    "title"       : "Лук",
+    "thumb"       : "onion.jpg"
+  },
+  {
+    "id"          : 12,
+    "title"       : "Чеснок",
+    "thumb"       : "garlic.jpg"
+  }
+]

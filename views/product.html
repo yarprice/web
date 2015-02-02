@@ -1,0 +1,18 @@
+<!--<div class="row well">
+
+  <div class="col-xs-12 col-sm-10">
+    <ol class="breadcrumb">
+      <li><a href="javascript:void(0);">Home</a></li>
+      <li>Category title</li>
+      <li class="active">Item</li>
+    </ol>
+  </div>
+
+  <div class="col-xs-12 col-sm-2">
+    <button ng-hide="ctrl.isSearchFormVisible" ng-click="ctrl.isSearchFormVisible = true"  class="btn btn-default btn-block">Find more</button>
+    <button ng-show="ctrl.isSearchFormVisible" ng-click="ctrl.isSearchFormVisible = false" class="close" aria-hidden="true">&times;</button>
+  </div>
+
+  <auction-search-form ng-show="ctrl.isSearchFormVisible"></auction-search-form>
+
+</div>--> <br> <div class="row"> <div class="col-sm-6 col-lg-6 text-center"> <img ng-src="images/{{ ctrl.product.Thumb }}" alt="" class="img-responsive center-block"> <h2><a ng-href="#/product/{{ ctrl.product.Title }}">{{ ctrl.product.Title }}</a></h2> <a id="send-new-price" href="" ng-click="ctrl.openConfirm(ctrl.product.Title)">Сообщить новую цену</a> </div> <div class="col-sm-6 col-lg-6"> <div class="col-sm-12 col-md-9"> <h3> <img src="images/dixy.jpg" height="80px"> {{ ctrl.product.Prices[0].PriceValue }} ₽ </h3> <h3> <img src="images/magnit.jpg" height="80px"> {{ ctrl.product.Prices[1].PriceValue }} ₽ </h3> <h3> <img src="images/dom.jpg" height="80px"> {{ ctrl.product.Prices[2].PriceValue }} ₽ </h3> <h3> <img src="images/perekrestok.jpg" height="80px"> {{ ctrl.product.Prices[3].PriceValue }} ₽ </h3> <h3> <img src="images/pyaterochka.jpg" height="80px"> {{ ctrl.product.Prices[4].PriceValue }} ₽ </h3> <h3> <img src="images/lenta.jpg" height="80px"> {{ ctrl.product.Prices[5].PriceValue }} ₽ </h3> <h3> <img src="images/globus.jpg" height="80px"> {{ ctrl.product.Prices[6].PriceValue }} ₽ </h3> <h3> <img src="images/ashan.jpg" height="80px"> {{ ctrl.product.Prices[7].PriceValue }} ₽ </h3> </div> </div> </div>
